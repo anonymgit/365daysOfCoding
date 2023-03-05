@@ -14,7 +14,7 @@ There are many reasons to participate in this challenge, such as:
 
 ## <span style="color:green"> How to Contribute? </span>
 
-To contribute in the challenge, fork and clone this repository and commit to a coding every day for a year. You can choose your own coding projects and coding langauge and goals.
+To contribute in the challenge, fork and clone, create your own branch with an appropriate name to this repository, and commit to a coding every day for a year. You can choose your own coding projects and coding langauge and goals.
 
 Some tips for staying motivated and successful during the problem include:
 
